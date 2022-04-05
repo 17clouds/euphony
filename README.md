@@ -1,2 +1,2 @@
 # euphony
-https://17clouds.github.io/euphony/euphony/
+https://17clouds.github.io/euphony/euphony/ready-html/
